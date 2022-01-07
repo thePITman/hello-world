@@ -1,1 +1,2 @@
 New file test.
+Now I am testing a branch.
